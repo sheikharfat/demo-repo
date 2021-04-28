@@ -1,3 +1,3 @@
 # Demo
 
-This is a Demo Page
+This is a Demo Page.
